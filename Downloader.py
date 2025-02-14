@@ -61,7 +61,7 @@ def switch(case):
                 print("\nHecho!\n")
             print("")
         case "4":
-            Happens()
+            Viktor()
             print(" ")
             print(" ")
             print("⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿")
